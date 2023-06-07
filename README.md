@@ -55,3 +55,7 @@ The `calculate_returns` and `calculate_advantages` functions are used to compute
 
 ## Acknowledgements
 This implementation is inspired by the PPO algorithm described in the original paper ["Proximal Policy Optimization Algorithms"](https://arxiv.org/abs/1707.06347) by Schulman et al.
+
+## License
+
+This project is licensed under a Free License.
